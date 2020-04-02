@@ -1,5 +1,5 @@
 {
-  "name": "leakage",
+  "name": "@mrschneepflug/leakage",
   "version": "0.5.0",
   "description": "Memory leak testing for node. Javascript memory footprinting using your favorite test runner.",
   "main": "lib/index",
